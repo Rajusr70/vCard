@@ -12,7 +12,7 @@ Video: <http://www.youtube.com/watch?v=DOjuRTCZP2k>
 ## Hardware
 ![vCard hardware dia](https://github.com/watterott/vCard/raw/master/img/hw_dia.png)
 
-**When using an external power supply (eg via the FTDI port) always remove the battery.**
+**Note: When using an external power supply (eg via the FTDI port) always remove the battery.**
 
 
 ## Directories
