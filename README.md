@@ -4,18 +4,12 @@ The device is pre-programmed with the Arduino bootloader and powered by a CR2032
 
 <http://www.watterott.com/en/V-Card>
 
-![vCard](https://github.com/watterott/vCard/raw/master/img/vcard.jpg)
+![vCard](https://raw.github.com/watterott/vCard/master/img/vcard.jpg)
 
 Video: <http://www.youtube.com/watch?v=DOjuRTCZP2k>
 
 
 ## Hardware
-![vCard hardware dia](https://github.com/watterott/vCard/raw/master/img/hw_dia.png)
+![vCard hardware dia](https://raw.github.com/watterott/vCard/master/img/hw_dia.png)
 
 **Note: When using an external power supply (eg via the FTDI port) always remove the battery.**
-
-
-## Directories
- /pcb - Schematics and Layout files
-
- /src - Arduino Examples
