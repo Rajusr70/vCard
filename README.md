@@ -6,14 +6,16 @@ Shop: [vCard](http://www.watterott.com/en/V-Card)
 
 ![vCard](https://raw.github.com/watterott/vCard/master/img/vcard.jpg)
 
-Video: <http://www.youtube.com/watch?v=DOjuRTCZP2k>
-
 
 ## Hardware
-![vCard hardware dia](https://raw.github.com/watterott/vCard/master/img/hw_dia.png)
-
-**Note: When using an external power supply (eg via the FTDI port) always remove the battery.**
+* ![vCard hardware dia](https://raw.github.com/watterott/vCard/master/img/hw_dia.png)
+* [Schematics + Layout](https://github.com/watterott/vCard/tree/master/pcb)
+* **Note: When using an external power supply (eg via the FTDI port) always remove the battery.**
 
 
 ## Software
 * [Arduino Examples](https://github.com/watterott/vCard/tree/master/src)
+
+
+## Videos
+* [vCard](http://www.youtube.com/watch?v=DOjuRTCZP2k)
