@@ -4,7 +4,7 @@ The device is pre-programmed with the Arduino bootloader and powered by a CR2032
 
 Shop: [vCard](http://www.watterott.com/en/V-Card)
 
-[![vCard](https://raw.github.com/watterott/vCard/master/img/vcard.jpg)](http://www.watterott.com/en/V-Card)
+[![vCard](https://raw.github.com/watterott/vCard/master/pcb/vCard_v10.jpg)](http://www.watterott.com/en/V-Card)
 
 
 ## Hardware
